@@ -1,3 +1,11 @@
 openai
 httpx[socks] 
 httpcore[socks]
+langchain
+langchain-community 
+langchain-experimental 
+sentence-transformers
+faiss-gpu
+openpyxl 
+pacmap
+ragatouille
