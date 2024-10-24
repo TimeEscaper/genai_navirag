@@ -1,0 +1,10 @@
+from setuptools import setup, find_packages
+
+setup(
+    name='centernet',  # The name of your package
+    version='0.1',  # Version of your package
+    description='CenterNet',
+    author='FAIR',
+    packages=find_packages(),
+    python_requires='>=3.6',  # Specify the Python version you require
+)
