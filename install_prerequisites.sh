@@ -2,7 +2,7 @@
 
 # LLaVa
 cd third_party/
-git git clone https://github.com/haotian-liu/LLaVA.git
+git clone https://github.com/haotian-liu/LLaVA.git
 cd LLaVA/
 pip install -e .
 
